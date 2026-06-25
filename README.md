@@ -2,7 +2,6 @@
 
 Jornal regional online da **região Centro-Oeste** (Goiás, Mato Grosso, Mato Grosso do Sul e Distrito Federal), desenvolvido para a atividade *Jornal Regional: Wireframe e Site*.
 
-
 **Site no ar:** https://helpful-chimera-4db445.netlify.app/
 **Wireframe (Figma):** https://www.figma.com/design/GzYepyFtFGH3Z9e3D5CtyD/Jornal?node-id=0-1
 

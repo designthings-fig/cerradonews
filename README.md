@@ -9,11 +9,7 @@ Jornal regional online da **região Centro-Oeste** (Goiás, Mato Grosso, Mato Gr
 
 ## Integrantes do grupo
 
-- [Nome do integrante]
-- [Nome do integrante]
-- [Nome do integrante]
-- [Nome do integrante]
-- [Nome do integrante]
+Lavínia Manzan, Mirella Ferreira, Sophia , Rihanna Ferreira e Vicente Cristian
 
 
 ---

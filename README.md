@@ -2,7 +2,7 @@
 
 Jornal regional online da **região Centro-Oeste** (Goiás, Mato Grosso, Mato Grosso do Sul e Distrito Federal), desenvolvido para a atividade *Jornal Regional: Wireframe e Site*.
 
-**Site no ar:** (https://github.com/designthings-fig/cerradonews)
+**Site no ar:** https://helpful-chimera-4db445.netlify.app/
 **Wireframe (Figma):** https://www.figma.com/design/GzYepyFtFGH3Z9e3D5CtyD/Jornal?node-id=0-1
 
 ---
@@ -10,7 +10,6 @@ Jornal regional online da **região Centro-Oeste** (Goiás, Mato Grosso, Mato Gr
 ## Integrantes do grupo
 
 Lavínia Manzan, Mirella Ferreira, Sophia , Rihanna Ferreira e Vicente Cristian
-
 
 ---
 
@@ -30,11 +29,11 @@ O **CerradoNews** representa o Centro-Oeste em todos os seus elementos:
 
 | Cor | Hex | Onde é usada | Por quê |
 |---|---|---|---|
-| 🟧 Laranja Cerrado | `#e38b26` | Marca, destaques, botões, links | O laranja-terra do pôr do sol no Cerrado e da terra do agronegócio; cor quente que transmite energia e identidade regional. |
-| ⬛ Grafite | `#252525` | Cabeçalho, widgets de tempo/câmbio, rodapé | Dá seriedade jornalística e contraste, valorizando as fotos e os números das APIs. |
-| ⬜ Off-white | `#f9f9f9` | Fundo do site | Leitura confortável, lembra o papel jornal, sem o cansaço do branco puro. |
-| 🟨 Laranja claro | `#fbe6cf` | Tags de editoria, fundos suaves | Versão clara do laranja para etiquetas e realces sem pesar. |
-| 🟩 (apoio) Verde Cerrado | nas fotos | Imagens de natureza | Reforça a vegetação e o verde do bioma. |
+| Laranja Cerrado | `#e38b26` | Marca, destaques, botões, links | O laranja-terra do pôr do sol no Cerrado e da terra do agronegócio; cor quente que transmite energia e identidade regional. |
+| Grafite | `#252525` | Cabeçalho, widgets de tempo/câmbio, rodapé | Dá seriedade jornalística e contraste, valorizando as fotos e os números das APIs. |
+| Off-white | `#f9f9f9` | Fundo do site | Leitura confortável, lembra o papel jornal, sem o cansaço do branco puro. |
+| Laranja claro | `#fbe6cf` | Tags de editoria, fundos suaves | Versão clara do laranja para etiquetas e realces sem pesar. |
+| (apoio) Verde Cerrado | nas fotos | Imagens de natureza | Reforça a vegetação e o verde do bioma. |
 
 As fontes seguem o Figma: **Newsreader** (títulos, ar de jornal clássico), **Inter** (texto e navegação) e **Spectral** (cotações de moedas).
 
@@ -69,18 +68,6 @@ cerradonews/
 ├── audio/vinheta.mp3   Vinheta de abertura do podcast
 └── img/                Imagens do jornal
 ```
-
----
-
-## Como publicar no GitHub Pages
-
-1. Crie um repositório no GitHub e envie todos os arquivos desta pasta.
-2. Vá em **Settings → Pages**.
-3. Em *Source*, escolha a branch `main` e a pasta `/root`.
-4. Salve. Em alguns minutos o site estará em `https://SEU-USUARIO.github.io/NOME-DO-REPO/`.
-5. Cole esse endereço no campo **"Site no ar"** no topo deste README.
-
-> Como o site usa apenas HTML, CSS e JavaScript puro, ele funciona direto no GitHub Pages, sem build.
 
 ---
 

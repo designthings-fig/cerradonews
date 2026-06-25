@@ -36,7 +36,7 @@ O **CerradoNews** representa o Centro-Oeste em todos os seus elementos:
 | Laranja claro | `#fbe6cf` | Tags de editoria, fundos suaves | Versão clara do laranja para etiquetas e realces sem pesar. |
 | (apoio) Verde Cerrado | nas fotos | Imagens de natureza | Reforça a vegetação e o verde do bioma. |
 
-As fontes seguem o Figma: **Newsreader** (títulos, ar de jornal clássico), **Inter** (texto e navegação) e **Spectral** (cotações de moedas).
+Tipografia: **Newsreader** (títulos, ar de jornal clássico), **Inter** (texto e navegação) e **Spectral** (cotações de moedas).
 
 ---
 
